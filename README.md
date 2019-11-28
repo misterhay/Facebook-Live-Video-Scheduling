@@ -2,3 +2,5 @@
 Scheduling Facebook Live Broadcasts using Google Apps Script
 
 Usage details in [this blog post](https://haytech.blogspot.com/2019/11/automated-scheduling-of-facebook-live.html)
+
+This does not collect any private information
